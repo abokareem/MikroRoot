@@ -1,3 +1,7 @@
+python3 MikroRoot.py -k ZxxaoRySfytHXHbUjOIigTzggBvDJpaB  -p 50
+
+
+
 # MikroRoot
 Automated version of CVE-2018-14847. It will scrape shodan for vulnerable host and then try to exploit them.
 
